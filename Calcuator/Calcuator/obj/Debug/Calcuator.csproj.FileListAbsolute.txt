@@ -1,0 +1,18 @@
+C:\Users\User\source\repos\Calcuator\Calcuator\bin\Debug\Calcuator.exe.config
+C:\Users\User\source\repos\Calcuator\Calcuator\bin\Debug\Calcuator.exe
+C:\Users\User\source\repos\Calcuator\Calcuator\bin\Debug\Calcuator.pdb
+C:\Users\User\source\repos\Calcuator\Calcuator\obj\Debug\Calcuator.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Calcuator\Calcuator\obj\Debug\Calcuator.Properties.Resources.resources
+C:\Users\User\source\repos\Calcuator\Calcuator\obj\Debug\Calcuator.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Calcuator\Calcuator\obj\Debug\Calcuator.exe
+C:\Users\User\source\repos\Calcuator\Calcuator\obj\Debug\Calcuator.pdb
+C:\Users\User\source\repos\Calcuator\Calcuator\obj\Debug\Calcuator.FormCalculator.resources
+E:\kuliah\materi\smester 3\pemerograman lanjut\tugas praktek\Calcuator\Calcuator\bin\Debug\Calcuator.exe.config
+E:\kuliah\materi\smester 3\pemerograman lanjut\tugas praktek\Calcuator\Calcuator\bin\Debug\Calcuator.exe
+E:\kuliah\materi\smester 3\pemerograman lanjut\tugas praktek\Calcuator\Calcuator\bin\Debug\Calcuator.pdb
+E:\kuliah\materi\smester 3\pemerograman lanjut\tugas praktek\Calcuator\Calcuator\obj\Debug\Calcuator.csprojAssemblyReference.cache
+E:\kuliah\materi\smester 3\pemerograman lanjut\tugas praktek\Calcuator\Calcuator\obj\Debug\Calcuator.FormCalculator.resources
+E:\kuliah\materi\smester 3\pemerograman lanjut\tugas praktek\Calcuator\Calcuator\obj\Debug\Calcuator.Properties.Resources.resources
+E:\kuliah\materi\smester 3\pemerograman lanjut\tugas praktek\Calcuator\Calcuator\obj\Debug\Calcuator.csproj.GenerateResource.cache
+E:\kuliah\materi\smester 3\pemerograman lanjut\tugas praktek\Calcuator\Calcuator\obj\Debug\Calcuator.exe
+E:\kuliah\materi\smester 3\pemerograman lanjut\tugas praktek\Calcuator\Calcuator\obj\Debug\Calcuator.pdb
